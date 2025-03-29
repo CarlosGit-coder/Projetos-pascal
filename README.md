@@ -53,6 +53,12 @@ Neste repositório, compartilho minha jornada no aprendizado de **Pascal** e com
 
 ---
 
+📞 **Carlos Gabriel Monteiro De Sousa**  
+📱 (86) 98816-6764  
+📸 [Instagram: N.T.C_Carlos](https://www.instagram.com/ntc_carlos)
+
+---
+
 ## 📂 **Estrutura do Repositório**  
 
 Abaixo está a organização do meu repositório de Pascal, para manter tudo bem estruturado e organizado:
@@ -66,9 +72,3 @@ Abaixo está a organização do meu repositório de Pascal, para manter tudo bem
 │   ├── 📂 Numeros positivos/  # Indentificar sé o número é ou não positivo
 │   └── 📂 Soma dos Números/   # Somar entre intervalos de Números
 └── 📄 README.md               # O arquivo com as informações principais sobre o repositório!
-
----
-
-📞 **Carlos Gabriel Monteiro De Sousa**  
-📱 (86) 98816-6764  
-📸 [Instagram: N.T.C_Carlos](https://www.instagram.com/ntc_carlos)
