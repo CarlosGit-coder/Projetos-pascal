@@ -61,9 +61,10 @@ Abaixo está a organização do meu repositório de Pascal, para manter tudo bem
 📦 Meu-Projeto-Pascal
 ├── 📁 Projetos-pascal/          # Documentação e anotações sobre os projetos em Pascal
 ├── 📁 Codigos/      # Projetos individuais desenvolvidos em Pascal
-│   ├── 📂 projeto1/  # Exemplo de projeto 1 em Pascal
-│   ├── 📂 projeto2/  # Exemplo de projeto 2 em Pascal
-│   └── 📂 projeto3/  # Exemplo de projeto 3 em Pascal
+│   ├── 📂 idade/  # Projeto de revelar sua classe etária
+│   ├── 📂 Multiplos/  # Projeto de identificar quais os multiplos do número inserido
+│   ├── 📂 Numeros positivos/  # Indentificar sé o número é ou não positivo
+│   └── 📂 Soma dos Números/  # Somar entre intervalos de Números
 └── 📄 README.md      # O arquivo com as informações principais sobre o repositório!
 
 ---
