@@ -71,4 +71,4 @@ Abaixo está a organização do meu repositório de Pascal, para manter tudo bem
 
 📞 **Carlos Gabriel Monteiro De Sousa**  
 📱 (86) 98816-6764  
-📸 **Instagram**: [N.T.C_Carlos](https://www.instagram.com/ntc_carlos)
+- 📸 [Instagram: N.T.C_Carlos](https://www.instagram.com/ntc_carlos)
