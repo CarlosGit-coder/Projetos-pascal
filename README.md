@@ -53,7 +53,8 @@ Neste repositório, compartilho minha jornada no aprendizado de **Pascal** e com
 
 ---
 
-📞 **Carlos Gabriel Monteiro De Sousa**  
+### 📞 **Vamos Conversar!**  
+- **Carlos Gabriel Monteiro De Sousa**  
 📱 (86) 98816-6764  
 📸 [Instagram: N.T.C_Carlos](https://www.instagram.com/ntc_carlos)
 
