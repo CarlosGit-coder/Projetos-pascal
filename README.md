@@ -59,8 +59,8 @@ Abaixo está a organização do meu repositório de Pascal, para manter tudo bem
 
 ```bash
 📦 Meu-Projeto-Pascal
-├── 📁 docs/          # Documentação e anotações sobre os projetos em Pascal
-├── 📁 projetos/      # Projetos individuais desenvolvidos em Pascal
+├── 📁 Projetos-pascal/          # Documentação e anotações sobre os projetos em Pascal
+├── 📁 Codigos/      # Projetos individuais desenvolvidos em Pascal
 │   ├── 📂 projeto1/  # Exemplo de projeto 1 em Pascal
 │   ├── 📂 projeto2/  # Exemplo de projeto 2 em Pascal
 │   └── 📂 projeto3/  # Exemplo de projeto 3 em Pascal
