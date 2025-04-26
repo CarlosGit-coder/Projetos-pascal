@@ -10,15 +10,14 @@ positivo, classificá-lo como:
 
 uses crt;
 
-var a, b, c, i:integer;
-
+var a, b, c:integer;
+Continuar: char;
 
  Begin
   
   clrscr;
   
-  for i:= 1 to 5 do
-   
+  Repeat
     Begin
       
       Writeln(' Insira um lado do triangulo: ');
@@ -40,5 +39,11 @@ var a, b, c, i:integer;
 	   Writeln(' Esse triangulo é Isoceles '); 
       
     End;
+    
+   Writeln(' Você quer testar a condição de existencia de outro triángulo ? (S/N)');
+   Readln(Continuar);
+   Continuar:= upcase(Continuar);
+  Until Continuar = 'N'; 
+    
   
  End.
